@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JAY2311111/contact-react-list/static/css/main.59d25791.css",
+    "main.js": "/JAY2311111/contact-react-list/static/js/main.834b9cc1.js",
+    "index.html": "/JAY2311111/contact-react-list/index.html",
+    "main.59d25791.css.map": "/JAY2311111/contact-react-list/static/css/main.59d25791.css.map",
+    "main.834b9cc1.js.map": "/JAY2311111/contact-react-list/static/js/main.834b9cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d25791.css",
+    "static/js/main.834b9cc1.js"
+  ]
+}
